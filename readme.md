@@ -1,24 +1,24 @@
-#_Lizzie's Porfolio_
+# Lizzie's Portfolio
 
-#### _Epicodus first independent project. Last updated 11/1/19_
+#### Epicodus first independent project. Last updated 11/1/19
 
-#### By _**Elizabeth Van Hook**_
+#### By **Elizabeth Van Hook**
 
-## description
-_This is a portolio website that houses information about Lizzie and links/descriptions to her projects._
+## Description
+This is a portfolio website that houses information about Lizzie and links/descriptions to her projects.
 
 ## Setup & Installation Requirements
-_Clone repository_
+Clone repository
 
 
 ## Known Bugs
-_No known bugs_
+No known bugs
 
 ## Support and Contact Details
 
 ## Technologies Used
-_HTML_
-_CSS_
-_Bootstrap_
+HTML
+CSS
+Bootstrap
 
 ## License
