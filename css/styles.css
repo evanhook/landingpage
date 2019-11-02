@@ -5,3 +5,24 @@
 h1 {
   color: #CD216A;
 }
+
+.bold {
+  font-weight: bold;
+}
+.italic {
+  font-style: italic;
+}
+.about-photos {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.column {
+  width: 300px;
+  float: left;
+  margin: 4px;
+}
+.sizing {
+  width: 280px;
+  height: 320px;
+}
