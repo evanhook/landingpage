@@ -8,8 +8,10 @@
 This is a portfolio website that houses information about Lizzie and links/descriptions to her projects. This is a practice exercise in HTML, CSS, and Bootstrap.
 
 ## Setup & Installation Requirements
-Github Pages link: my-github-evanhook.github.io/landingpage
-Clone repository
+Select the Github repository
+Open the terminal and go to desktop
+Clone the selected repository
+Push changes to Github
 
 ## Known Bugs
 No known bugs
