@@ -1,0 +1,21 @@
+.pic {
+  float: left;
+  width: 300px;
+}
+
+.description {
+  border: 5px solid pink;
+  padding: 20px;
+  margin-top: 275px;
+}
+
+.background {
+  background-color: #d3d3d3;
+}
+
+.social {
+  border: 2px solid #b3b3ff;
+  float: left;
+  padding: 10px;
+  margin-left: 20px;
+}
