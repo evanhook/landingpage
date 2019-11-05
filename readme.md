@@ -8,10 +8,10 @@
 This is a portfolio website that houses information about Lizzie and links/descriptions to her projects. This is a practice exercise in HTML, CSS, and Bootstrap.
 
 ## Setup & Installation Requirements
-Select the Github repository
-Open the terminal and go to desktop
-Clone the selected repository
-Push changes to Github
+* Select the Github repository
+* Open the terminal and go to desktop
+* Clone the selected repository
+* Push changes to Github
 
 ## Known Bugs
 No known bugs
@@ -20,9 +20,9 @@ No known bugs
 Contact Elizabeth Van Hook
 
 ## Technologies Used
-HTML
-CSS
-Bootstrap
+* HTML
+* CSS
+* Bootstrap
 
 ## License
 Copyright (c) 2019 Elizabeth L Van Hook
