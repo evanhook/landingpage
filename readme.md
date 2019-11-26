@@ -17,7 +17,7 @@ This is a portfolio website that houses information about Lizzie and links/descr
 * Push changes to Github
 
 ## Link to GH Pages
-
+evanhook.github.io/landingpage
 
 ## Known Bugs
 No known bugs
