@@ -13,8 +13,11 @@ This is a portfolio website that houses information about Lizzie and links/descr
 * Create a directory (MKDIR)
 * Initialize a new Git repository (git init)
 * Clone the repository (git clone URL)
-* Add the respository to your directory
- * Push changes to Github
+* Add the repository to your directory
+* Push changes to Github
+
+## Link to GH Pages
+
 
 ## Known Bugs
 No known bugs
